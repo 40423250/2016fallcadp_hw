@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423250 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2016-11-25T20:00:00+08:00</updated><entry><title>Week 11</title><link href="./week-11.html" rel="alternate"></link><published>2016-11-25T20:00:00+08:00</published><updated>2016-11-25T20:00:00+08:00</updated><author><name>40423250</name></author><id>tag:,2016-11-25:./week-11.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423250 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2017-01-16T20:00:00+08:00</updated><entry><title>期末心得</title><link href="./qi-mo-xin-de.html" rel="alternate"></link><updated>2017-01-16T20:00:00+08:00</updated><author><name>40423250</name></author><id>tag:,2017-01-16:./qi-mo-xin-de.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
+
+
+&lt;p&gt;期末心得&lt;p&gt;
+
+這學期我學到好多東西，還有新的軟體的應用。
+雖然途中有許多波折，不過希望大家都可以順利通過。
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;img src="../data/image/W11-2.png" width="800" length="600" /&gt;
+
+
+&lt;p&gt;心得&lt;p&gt;
+
+今天第十一次上課，但因為遇到虎科大36週年校慶，沒上課，不過大家都有在運動場上揮灑青春的汗水。。</summary><category term="123"></category></entry><entry><title>平面多連桿機構模擬與驗證</title><link href="./ping-mian-duo-lian-gan-ji-gou-mo-ni-yu-yan-zheng.html" rel="alternate"></link><updated>2017-01-14T00:00:00+08:00</updated><author><name>40423250</name></author><id>tag:,2017-01-14:./ping-mian-duo-lian-gan-ji-gou-mo-ni-yu-yan-zheng.html</id><summary type="html">&lt;iframe src="Y:/tmp/2016fallcadp_hw/w12/w12-1.html" width="700" height="550"&gt;&lt;/iframe&gt;</summary><category term="使用導引"></category></entry><entry><title>Week 11</title><link href="./week-11.html" rel="alternate"></link><updated>2016-11-25T20:00:00+08:00</updated><author><name>40423250</name></author><id>tag:,2016-11-25:./week-11.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
 
 
 &lt;p&gt;虎尾科技大學36週年校慶&lt;p&gt;
@@ -23,7 +47,7 @@
 
 &lt;p&gt;心得&lt;p&gt;
 
-今天第十一次上課，但因為遇到虎科大36週年校慶，沒上課，不過大家都有在運動場上揮灑青春的汗水。。</summary><category term="虎尾科技大學36週年校慶"></category></entry><entry><title>Week 10</title><link href="./week-10.html" rel="alternate"></link><published>2016-11-18T20:00:00+08:00</published><updated>2016-11-18T20:00:00+08:00</updated><author><name>40423250</name></author><id>tag:,2016-11-18:./week-10.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
+今天第十一次上課，但因為遇到虎科大36週年校慶，沒上課，不過大家都有在運動場上揮灑青春的汗水。。</summary><category term="虎尾科技大學36週年校慶"></category></entry><entry><title>Week 10</title><link href="./week-10.html" rel="alternate"></link><updated>2016-11-18T20:00:00+08:00</updated><author><name>40423250</name></author><id>tag:,2016-11-18:./week-10.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
 
 
 &lt;p&gt;有關 Solvespace 機構模擬功能介紹, 與 Python3 及 Brython 程式驗證&lt;p&gt;
@@ -40,7 +64,7 @@
 
 &lt;p&gt;心得&lt;p&gt;
 
-我這次做也出現了許多問題。但跟組員討論後也解決了問題，看來團隊的合作遠重要於個人能力。</summary><category term="Solvespace"></category></entry><entry><title>Week 9</title><link href="./week-9.html" rel="alternate"></link><published>2016-11-11T22:00:00+08:00</published><updated>2016-11-11T22:00:00+08:00</updated><author><name>40423250</name></author><id>tag:,2016-11-11:./week-9.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
+我這次做也出現了許多問題。但跟組員討論後也解決了問題，看來團隊的合作遠重要於個人能力。</summary><category term="Solvespace"></category></entry><entry><title>Week 9</title><link href="./week-9.html" rel="alternate"></link><updated>2016-11-11T22:00:00+08:00</updated><author><name>40423250</name></author><id>tag:,2016-11-11:./week-9.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
 
 
 &lt;p&gt;期中考週&lt;p&gt;
@@ -49,7 +73,7 @@
 
 心得
 
-今天第九次上課，這次上課是期中考週，所以我檢查一下自己哪裡還沒做好，真希望不會被當，但我才不是怕被當才努力學習的。</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 8</title><link href="./week-8.html" rel="alternate"></link><published>2016-11-04T22:50:00+08:00</published><updated>2016-11-04T22:50:00+08:00</updated><author><name>40423250</name></author><id>tag:,2016-11-04:./week-8.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
+今天第九次上課，這次上課是期中考週，所以我檢查一下自己哪裡還沒做好，真希望不會被當，但我才不是怕被當才努力學習的。</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 8</title><link href="./week-8.html" rel="alternate"></link><updated>2016-11-04T22:50:00+08:00</updated><author><name>40423250</name></author><id>tag:,2016-11-04:./week-8.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
 
 
 &lt;p&gt;使用Trace Point計算路徑&lt;p&gt;
@@ -58,7 +82,7 @@
 
 心得
 
-今天第八次上課，這次上課跟上次差不多但我因為有回家多練幾次，所以比較會用的，但我還是會努力學習的。</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 7</title><link href="./week-7.html" rel="alternate"></link><published>2016-10-28T22:00:00+08:00</published><updated>2016-10-28T22:00:00+08:00</updated><author><name>40423250</name></author><id>tag:,2016-10-28:./week-7.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
+今天第八次上課，這次上課跟上次差不多但我因為有回家多練幾次，所以比較會用的，但我還是會努力學習的。</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 7</title><link href="./week-7.html" rel="alternate"></link><updated>2016-10-28T22:00:00+08:00</updated><author><name>40423250</name></author><id>tag:,2016-10-28:./week-7.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
 
 
 &lt;p&gt;使用Trace Point計算路徑&lt;p&gt;
@@ -70,13 +94,13 @@
 
 心得
 
-今天第七次上課，這次上課教的我有點不太會用，所以我跟組員一起討論一起去摸索，最後我們在今天的課程中都學了新的東西也有了心得。</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 6</title><link href="./week-6.html" rel="alternate"></link><published>2016-10-21T19:00:00+08:00</published><updated>2016-10-21T19:00:00+08:00</updated><author><name>40423250</name></author><id>tag:,2016-10-21:./week-6.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
+今天第七次上課，這次上課教的我有點不太會用，所以我跟組員一起討論一起去摸索，最後我們在今天的課程中都學了新的東西也有了心得。</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 6</title><link href="./week-6.html" rel="alternate"></link><updated>2016-10-21T19:00:00+08:00</updated><author><name>40423250</name></author><id>tag:,2016-10-21:./week-6.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
 
 
 &lt;h3&gt;生病中&lt;/h3&gt;
 
 &lt;p&gt;心得&lt;/p&gt;
-&lt;p&gt;今天第六次上課，這次上課我身體不太舒服，也許是心情受到影響，導致我的身體免疫系統也接連的虛弱，上課有點恍神，看來回家要好好休息，也要記得複習今天上課的內容。&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 5</title><link href="./week-5.html" rel="alternate"></link><published>2016-10-14T22:30:00+08:00</published><updated>2016-10-14T22:30:00+08:00</updated><author><name>40423250</name></author><id>tag:,2016-10-14:./week-5.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
+&lt;p&gt;今天第六次上課，這次上課我身體不太舒服，也許是心情受到影響，導致我的身體免疫系統也接連的虛弱，上課有點恍神，看來回家要好好休息，也要記得複習今天上課的內容。&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 5</title><link href="./week-5.html" rel="alternate"></link><updated>2016-10-14T22:30:00+08:00</updated><author><name>40423250</name></author><id>tag:,2016-10-14:./week-5.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
 
 
 &lt;p&gt;認識SolveSpace&lt;p&gt;
@@ -85,7 +109,7 @@
 
 心得
 
-今天第五次上課，這次上課老師教我們一個新的畫圖軟體，我覺得用起來跟之前高中學的相比，比較難上手一些，不過用了也就習慣了。</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 4</title><link href="./week-4.html" rel="alternate"></link><published>2016-10-07T22:28:00+08:00</published><updated>2016-10-07T22:28:00+08:00</updated><author><name>40423250</name></author><id>tag:,2016-10-07:./week-4.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
+今天第五次上課，這次上課老師教我們一個新的畫圖軟體，我覺得用起來跟之前高中學的相比，比較難上手一些，不過用了也就習慣了。</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 4</title><link href="./week-4.html" rel="alternate"></link><updated>2016-10-07T22:28:00+08:00</updated><author><name>40423250</name></author><id>tag:,2016-10-07:./week-4.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
 
 
 &lt;p&gt;1: 設定使用者資料&lt;/p&gt;
@@ -93,7 +117,7 @@
 &lt;p&gt;2: 組長用2016fallcadp_bg2的名稱建立小組倉儲並邀組員進入小組倉儲&lt;/p&gt;
 
 &lt;p&gt;心得&lt;/p&gt;
-&lt;p&gt;今天第四次上課，這次上課內容要開始分組，分組的目的是互相扶持，互相幫助，所以我跟我的組員都會全力以赴。&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 3</title><link href="./week-3.html" rel="alternate"></link><published>2016-09-30T22:44:00+08:00</published><updated>2016-09-30T22:44:00+08:00</updated><author><name>40423250</name></author><id>tag:,2016-09-30:./week-3.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
+&lt;p&gt;今天第四次上課，這次上課內容要開始分組，分組的目的是互相扶持，互相幫助，所以我跟我的組員都會全力以赴。&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 3</title><link href="./week-3.html" rel="alternate"></link><updated>2016-09-30T22:44:00+08:00</updated><author><name>40423250</name></author><id>tag:,2016-09-30:./week-3.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
 
 
 &lt;p&gt;1:複製網誌和簡報的設定檔2016fallcadp_hw的倉儲&lt;/p&gt;
@@ -101,7 +125,7 @@
 &lt;p&gt;2:更改2016fallcadp_hw的README.md檔案&lt;/p&gt;
 
 &lt;p&gt;心得&lt;/p&gt;
-&lt;p&gt;今天第三次上課，這次上課內容也跟一年級教得差不多，所以完全沒問題，但是回家還是要稍微複習一下，多注意國際的時事。&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 2</title><link href="./week-2.html" rel="alternate"></link><published>2016-09-23T22:00:00+08:00</published><updated>2016-09-23T22:00:00+08:00</updated><author><name>40423250</name></author><id>tag:,2016-09-23:./week-2.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
+&lt;p&gt;今天第三次上課，這次上課內容也跟一年級教得差不多，所以完全沒問題，但是回家還是要稍微複習一下，多注意國際的時事。&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 2</title><link href="./week-2.html" rel="alternate"></link><updated>2016-09-23T22:00:00+08:00</updated><author><name>40423250</name></author><id>tag:,2016-09-23:./week-2.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
 
 
 &lt;p&gt;1: 建立"學號.github.io"名稱的倉儲&lt;/p&gt;
@@ -111,7 +135,7 @@
 &lt;p&gt;3: 建立"2016fallcpb_hw"作業倉儲&lt;/p&gt;
 
 &lt;p&gt;心得&lt;/p&gt;
-&lt;p&gt;今天第二次上課，這次上課內容跟一年級教得差不多，老師上課的節奏我都可以跟得上，不過也不能因此而鬆懈，因為這門課只要有一刻的失神就會不知道該做什麼。。&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>2016Fall 機械設計主題教學</title><link href="./2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html" rel="alternate"></link><published>2016-09-21T12:00:00+08:00</published><updated>2016-09-21T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-21:./2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html</id><summary type="html">&lt;p&gt;知識管理與最佳化應用實驗室試圖利用計算機程式、網際內容管理、電腦輔助設計實習與協同產品設計實習等課程, 進行與機械設計相關的主題式教學, 其中包含強化創造力的教學、令學員熟習六種工程表達方式, 並且俱備融入協同設計所需要的四大面向知識與技能.&lt;/p&gt;
+&lt;p&gt;今天第二次上課，這次上課內容跟一年級教得差不多，老師上課的節奏我都可以跟得上，不過也不能因此而鬆懈，因為這門課只要有一刻的失神就會不知道該做什麼。。&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>2016Fall 機械設計主題教學</title><link href="./2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html" rel="alternate"></link><updated>2016-09-21T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-21:./2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html</id><summary type="html">&lt;p&gt;知識管理與最佳化應用實驗室試圖利用計算機程式、網際內容管理、電腦輔助設計實習與協同產品設計實習等課程, 進行與機械設計相關的主題式教學, 其中包含強化創造力的教學、令學員熟習六種工程表達方式, 並且俱備融入協同設計所需要的四大面向知識與技能.&lt;/p&gt;
 
 
 &lt;h1&gt;機械設計主題教學&lt;/h1&gt;
@@ -230,7 +254,7 @@ for i in range(len(result)):
         str(gmember[j])+"&amp;lt;/a&amp;gt; ")
     print("&amp;lt;br /&amp;gt;")
     gno = gno + 1
-&lt;/pre&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 1</title><link href="./week-1.html" rel="alternate"></link><published>2016-09-16T22:00:00+08:00</published><updated>2016-09-16T22:00:00+08:00</updated><author><name>40423250</name></author><id>tag:,2016-09-16:./week-1.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
+&lt;/pre&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 1</title><link href="./week-1.html" rel="alternate"></link><updated>2016-09-16T22:00:00+08:00</updated><author><name>40423250</name></author><id>tag:,2016-09-16:./week-1.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
 
 
 &lt;p&gt;切換分支&lt;/p&gt;
